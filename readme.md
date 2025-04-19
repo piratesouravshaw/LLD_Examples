@@ -5,6 +5,7 @@
 5. clear_due user List<OrderId> date_of_clearing
 6. view_dues user 
 
+Question Link: https://docs.google.com/document/d/1B2w4-H3v-9L-BH5vafUpYpVujT3baTEXmCbQdUssoS4/edit?tab=t.0#heading=h.snvjv23iqu6u
 
 #Thoughts:
 1. Item price can be changed later
